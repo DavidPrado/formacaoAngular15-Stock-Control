@@ -29,3 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Repositorio Backend do Projeto
 
 https://github.com/marcosJuniorPassarella/stock-api.git/
+
+## Curso Feito Pela Udemy
+
+https://www.udemy.com/course/curso-de-angular-15-do-iniciante-ao-especialista/?couponCode=KEEPLEARNING
